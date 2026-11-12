@@ -1,0 +1,35 @@
+{
+  "title": "Analysis code for: Single-molecule stoichiometry by direct RNA sequencing distinguishes epitranscriptome remodeling from artifacts in kidney ischemia–reperfusion injury",
+  "description": "Figure-generation and analysis code (R/Python/Bash) for a five-group time course of mouse kidney ischemia–reperfusion injury profiled by Oxford Nanopore direct RNA sequencing, matched RNA-seq, ATAC-seq and untargeted metabolomics. Companion datasets: NGDC GSA (BioProject PRJCA079331, submission subCRA087106), NGDC OMIX (OMIX023403), GEO (GSE274819).",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": {"id": "MIT"},
+  "creators": [
+    {"name": "Pan, Jiashan", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"},
+    {"name": "Cai, Mingchen", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"},
+    {"name": "Zhu, Qi", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"},
+    {"name": "Yang, Mo", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"},
+    {"name": "Ling, Xinlei", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"},
+    {"name": "Chen, Wei", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"},
+    {"name": "Ding, Handong", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"},
+    {"name": "Zhong, Jinbiao", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"},
+    {"name": "Hao, Zongyao", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"},
+    {"name": "Liang, Chaozhao", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"},
+    {"name": "Meng, Xiaoming", "affiliation": "Inflammation and Immune Mediated Diseases Laboratory of Anhui Province, Key Laboratory of Anti-inflammatory of Immune Medicines, Ministry of Education, Anhui Institute of Innovative Drugs, School of Pharmaceutical Sciences, Anhui Medical University, Hefei, China"},
+    {"name": "Liao, Guiyi", "affiliation": "Department of Urology, The First Affiliated Hospital of Anhui Medical University; Institute of Urology, Anhui Medical University; Anhui Province Key Laboratory of Genitourinary Diseases, Hefei, China"}
+  ],
+  "keywords": [
+    "direct RNA sequencing",
+    "epitranscriptomics",
+    "RNA modification stoichiometry",
+    "m6A",
+    "acute kidney injury",
+    "kidney transplantation",
+    "alternative splicing",
+    "novel transcripts"
+  ],
+  "related_identifiers": [
+    {"scheme": "url", "identifier": "https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA079331", "relation": "references", "resource_type": "dataset"},
+    {"scheme": "url", "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE274819", "relation": "references", "resource_type": "dataset"}
+  ]
+}
